@@ -1,6 +1,6 @@
 <%@ include file="header.jsp" %>  		
 
-<h1> HERE WILL BE CART WITH CHOSEN GOODS </h1>
+<h1> YOU'LL SEE MAIN PAGE HERE </h1>
 
 
 <%@ include file="footer.jsp" %>  	
